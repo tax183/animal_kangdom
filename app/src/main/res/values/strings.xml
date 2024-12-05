@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Animal Kingdom</string>
+
+ //Animals names
+ <string name="tBear">Bear</string>
+ <string name="tCat">Cat</string>
+ <string name="tCow">Cow</string>
+ <string name="tFox">Fox</string>
+ <string name="tBird">Bird</string>
+ <string name="tPenguin">Penguin</string>
+ <string name="tBee">bee</string>
+ <string name="tSheep">Sheep</string>
+ <string name="tElephant">Elephant</string>
+ <string name="animalimage">animalimages</string>
+
+ // Animals Details
+ <string name="aboutBear">Bears love fish and berries</string>
+ <string name="aboutCat">Cats love Tuna</string>
+ <string name="aboutBird">Birds love worms and seeds</string>
+ <string name="aboutSheep">Sheep make wool</string>
+ <string name="aboutCow">Cows make milk</string>
+ <string name="aboutBee">Bees make honey</string>
+ <string name="aboutFox">Fox like berries</string>
+ <string name="aboutElephant">Elephants are big</string>
+ <string name="aboutPenguin">Penguins like to swim and eat fish</string>
+</resources>
